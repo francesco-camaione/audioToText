@@ -1,0 +1,12 @@
+.transcription_container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+.p {
+    max-width: 90%;
+    font-size: 1.6rem;
+}
